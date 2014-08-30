@@ -1,0 +1,14 @@
+
+
+*.class
+
+# generated files
+bin/
+gen/
+
+# doc files
+
+*build.xml
+*local.properties
+
+.classpat
